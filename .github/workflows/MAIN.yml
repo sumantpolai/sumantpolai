@@ -23,12 +23,17 @@ jobs:
         mkdir -p dist  # Ensure the dist directory exists
         ls -la dist  # List contents of the dist directory to confirm
 
-    # Push the changes to the output branch
+    - name: Generate Snake GIF
+      uses: Platane/snk/github-readme-generator@v3
+      with:
+        github_user_name: sumantpolai
+        output_file: dist/github-contribution-grid-snake.gif
+
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
+        branch: output
         force: true
 
     - name: Deploy to GitHub Pages
