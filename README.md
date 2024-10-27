@@ -41,7 +41,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumantpolai&" alt="sumantpolai" /></p>
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/sumantpolai/sumantpolai/output/github-contribution-grid-snake.svg" />
 
 
 
