@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumantpolai" alt="sumantpolai" /></a> </p>
 
-- 🔭 I’m currently working on **React.js , NEXT.js , Tailwind css**
+- 🔭 I’m currently working on **React.js , NEXT.js**
 
-- 🌱 I’m currently learning **Tailwind CSS , NEXT.js**
+- 🌱 I’m currently learning **NEXT.js**
 
 - 👯 I’m looking to collaborate on **E-waste Wizards**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sumantpolai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JVqgdA0zsJ5lXK3Ee8V07tiYbc4Tt60R/view?usp=drivesdk](https://drive.google.com/file/d/1JVqgdA0zsJ5lXK3Ee8V07tiYbc4Tt60R/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GRVj9LLT-h84b7JBeatscBbxZd47EPLl/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am the only one who makes fun in my group.**
 
